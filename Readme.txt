@@ -1,0 +1,1 @@
+******************Firstly both the Client and Server modules should be compiled and run then the project will be ready to be used*********************
